@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm shehcfclly02154
 
-<!--
-**shehcfclly02154/shehcfclly02154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 🎰 🛼 Always learning about startup culture 🎯 🎰 🛼
 
-Here are some ideas to get you started:
+## About Me
+🏏 🚴 Obsessed with open source 🏏 🚴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥋 🏓 🎽 🚣 Building the future with UI/UX design 🥋 🏓 🎽 🚣
+
+### Fun Facts
+🎬 🏄 🛼 A geek in frameworks 🎬 🏄 🛼
+
+---
+✨ 🏊 🎬 🥋 🏏 Thanks for visiting my profile! 🏊 🏏 🎮 🎣 🚴
